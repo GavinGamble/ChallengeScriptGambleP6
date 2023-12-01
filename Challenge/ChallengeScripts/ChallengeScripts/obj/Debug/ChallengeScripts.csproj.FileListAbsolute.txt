@@ -1,0 +1,7 @@
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\bin\Debug\ChallengeScripts.exe.config
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\bin\Debug\ChallengeScripts.exe
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\bin\Debug\ChallengeScripts.pdb
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\obj\Debug\ChallengeScripts.csproj.AssemblyReference.cache
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\obj\Debug\ChallengeScripts.csproj.CoreCompileInputs.cache
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\obj\Debug\ChallengeScripts.exe
+C:\Users\Per6Student\Documents\Visual Studio 2022\Challenges\ChallengeScripts\ChallengeScripts\obj\Debug\ChallengeScripts.pdb
